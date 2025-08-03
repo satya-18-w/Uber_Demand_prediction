@@ -13,6 +13,7 @@ dask
 graphviz
 xgboost
 dagshub
+mlflow
 
 
 
